@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheBindable</string>
+    <string name="display_name">Display</string>
+    <string name="label_name">Name</string>
+    <string name="label_number">Phone Number</string>
+    <string name="submit">Submit</string>
+</resources>
